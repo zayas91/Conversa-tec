@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\108a05fafcce3ff37f165edb565221b49521bb28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_f94ae5703374f0211e6f638c218c3004bbcc2c1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_0ed6a3696eca434e3579fde0fcbc1dbaf4b98e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\108a05fafcce3ff37f165edb565221b49521bb28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f94ae5703374f0211e6f638c218c3004bbcc2c1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\f49e04a9387ded9f605541784fb6cb09a4b021be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1507daaf7d117bbe4a5db25cbc1b2d9efb1426ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Conversa-TEC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_71b378719dbca22373b07a6743e1306eee09ac4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\f49e04a9387ded9f605541784fb6cb09a4b021be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_1507daaf7d117bbe4a5db25cbc1b2d9efb1426ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\e6a2c8b49dfaa8688b93fa45cd8a5476b14e58b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a1e3f4d0a17e6738d791f7d0e6175bd18d90185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\2262b0f3f06336679d7e41dca4e8833142599da9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d7c36ad069cf533f147a56a32e56873c83214fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_0ed6a3696eca434e3579fde0fcbc1dbaf4b98e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\e6a2c8b49dfaa8688b93fa45cd8a5476b14e58b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_7a1e3f4d0a17e6738d791f7d0e6175bd18d90185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\3d975a9c10b68ed867fac08f274ff3c1439295a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_ac7cb6e2ba6b5ce59db24f915eedcb12c28a90dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\3d975a9c10b68ed867fac08f274ff3c1439295a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac7cb6e2ba6b5ce59db24f915eedcb12c28a90dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\16114d1d3480dbc970a2ac38d8095bccb5d2c165\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aec0c4e290bc4dcd768366d54e9b46b1dd293364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\49621670fb43ac71bf437986cf94dd8e0c212517\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6df337ebd346c38d9b67d475cfeff8ddbe15c735\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\2262b0f3f06336679d7e41dca4e8833142599da9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_4d7c36ad069cf533f147a56a32e56873c83214fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\49621670fb43ac71bf437986cf94dd8e0c212517\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_6df337ebd346c38d9b67d475cfeff8ddbe15c735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\16114d1d3480dbc970a2ac38d8095bccb5d2c165\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_aec0c4e290bc4dcd768366d54e9b46b1dd293364.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\9059ddf669bc15ed3e8db1da36d8b086d253fd4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_608b22c25214e61450f8be5790298cb69c76db95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Conversa-TEC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5d658254e8f906869947d8ababb93867a7137ab">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_84cba9ea490b912b893190ad2887a1e039b3eb58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5050beba6b8af7ded6e7d207166a9db1ae7d8f04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\9059ddf669bc15ed3e8db1da36d8b086d253fd4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_608b22c25214e61450f8be5790298cb69c76db95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\fd8283fb6e2ac70806b446c69b8007e1b86d3c6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_a8e3ff21d49c796b4b9081fb11b9896971c153f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\9fee8e378020d29dbe1da7a1fe54a615fca450e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_042b69466566f5e50df5a24e6bc8a2a96c3b4362.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\fd8283fb6e2ac70806b446c69b8007e1b86d3c6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8e3ff21d49c796b4b9081fb11b9896971c153f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\9fee8e378020d29dbe1da7a1fe54a615fca450e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_042b69466566f5e50df5a24e6bc8a2a96c3b4362\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_5050beba6b8af7ded6e7d207166a9db1ae7d8f04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\227d6b4e09e9736de38a8c72a102cf1dd6803aa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c1d5294e95f83cbbb819077b048743584fec0e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\02968b486326f781251a098d118356b75e702679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c65c53dbac8a5d304da935d9882231c62774e3bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\227d6b4e09e9736de38a8c72a102cf1dd6803aa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_3c1d5294e95f83cbbb819077b048743584fec0e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\fe4a230bcb3fb9b676fb595bc9e36cd5cc205dfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eca791fd5972d24ec556bde10371df7302f7cc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\02968b486326f781251a098d118356b75e702679\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_c65c53dbac8a5d304da935d9882231c62774e3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lNFORMATICA\.android\build-cache\fe4a230bcb3fb9b676fb595bc9e36cd5cc205dfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Conversa-TEC\app\build\intermediates\pre-dexed\debug\classes_eca791fd5972d24ec556bde10371df7302f7cc73.jar" />
+    </item>
+
+</items>

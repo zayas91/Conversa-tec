@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversa-TEC</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="welcome">Bienvenido</string>
+    <!-- Menu Principal de la App -->
+    <string name="profesor">Profesor</string>
+    <string name="profesor_desc">Imparta una clase a dos o más alumnos simultaneamente</string>
+    <string name="unirse_a_clase">Unirse a Clase</string>
+    <string name="unirse_a_clase_desc">Unase a otros compañeros a una clase</string>
+    <string name="clase_directa">Clase Directa</string>
+    <string name="clase_directa_desc">Tome una clase particular o directa; Tambien le puede ayudar a estudiar con otro compañero</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="ajustes_desc">Personalice el funcionamiento de su App para una mejor experiencia</string>
+    <string name="title_activity_clase__directa">Clase Directa</string>
+</resources>
